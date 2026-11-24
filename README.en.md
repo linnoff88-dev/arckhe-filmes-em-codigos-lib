@@ -8,7 +8,7 @@
 
 You want to change one detail in a film and keep what already works. This library shows how AI can write the instructions that draw each image. If you’re curious and have never programmed, start with a demo, then open the project to see how the creator made that scene. All you need to explore is a browser.
 
-[Open the guide](https://inematds.github.io/filmes-em-codigos-lib/guia/en/) · [Libraries of styles and films in code](https://inematds.github.io/filmes-em-codigos-lib/guia/en/#biblioteca) · [High realism in code](https://inematds.github.io/filmes-em-codigos-lib/guia/en/#realismo)
+[Open the guide](https://linnoff88-dev.github.io/ · [Libraries of styles and films in code](https://linnoff88-dev.github.io/ · [High realism in code](https://linnoff88-dev.github.io/
 
 ## The process, from start to finish
 
@@ -27,7 +27,7 @@ You want to change one detail in a film and keep what already works. This librar
 To view the library on your computer, use Git and Python 3. In a terminal, clone the project, enter its folder and start the server. Then open the address below.
 
 ```sh
-git clone https://github.com/inematds/filmes-em-codigos-lib.git
+git clone https://github.com/linnoff88-dev/filmes-em-codigos-lib.git
 cd filmes-em-codigos-lib
 python3 -m http.server 8000
 ```

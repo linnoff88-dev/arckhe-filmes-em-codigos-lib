@@ -8,7 +8,7 @@
 
 Quieres cambiar un detalle de la película y conservar lo que ya quedó bien. Esta biblioteca muestra cómo la IA puede escribir las instrucciones que dibujan cada imagen. Si tienes curiosidad y nunca has programado, empieza por una demostración y luego abre el proyecto para descubrir cómo hizo esa escena su autor. Para explorar, basta con el navegador.
 
-[Abrir la guía](https://inematds.github.io/filmes-em-codigos-lib/guia/es/) · [Bibliotecas de estilos y películas en código](https://inematds.github.io/filmes-em-codigos-lib/guia/es/#biblioteca) · [Alto realismo en código](https://inematds.github.io/filmes-em-codigos-lib/guia/es/#realismo)
+[Abrir la guía](https://linnoff88-dev.github.io/ · [Bibliotecas de estilos y películas en código](https://linnoff88-dev.github.io/ · [Alto realismo en código](https://linnoff88-dev.github.io/
 
 ## El proceso, de principio a fin
 
@@ -27,7 +27,7 @@ Quieres cambiar un detalle de la película y conservar lo que ya quedó bien. Es
 Para ver la biblioteca en tu computadora, usa Git y Python 3. En una terminal, clona el proyecto, entra en su carpeta e inicia el servidor. Luego abre la dirección que aparece abajo.
 
 ```sh
-git clone https://github.com/inematds/filmes-em-codigos-lib.git
+git clone https://github.com/linnoff88-dev/filmes-em-codigos-lib.git
 cd filmes-em-codigos-lib
 python3 -m http.server 8000
 ```

@@ -1,4 +1,4 @@
-﻿# Filmes em cÃ³digo
+# Filmes em cÃ³digo
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -14,7 +14,7 @@
 
 VocÃª quer mudar um detalhe do filme e guardar o que jÃ¡ ficou bom. Esta biblioteca mostra como a IA pode escrever as instruÃ§Ãµes que desenham cada imagem. Se vocÃª tem curiosidade e nunca programou, comece por uma demonstraÃ§Ã£o e depois abra o projeto para descobrir como o autor fez aquela cena. Para explorar, basta o navegador.
 
-[Abrir o guia](https://inematds.github.io/filmes-em-codigos-lib/guia/) Â· [Bibliotecas de estilos e filmes em cÃ³digo](https://inematds.github.io/filmes-em-codigos-lib/guia/#biblioteca) Â· [Alto realismo em cÃ³digo](https://inematds.github.io/filmes-em-codigos-lib/guia/#realismo)
+[Abrir o guia](https://linnoff88-dev.github.io/ Â· [Bibliotecas de estilos e filmes em cÃ³digo](https://linnoff88-dev.github.io/ Â· [Alto realismo em cÃ³digo](https://linnoff88-dev.github.io/
 
 ## O processo, do inÃ­cio ao fim
 
@@ -33,7 +33,7 @@ VocÃª quer mudar um detalhe do filme e guardar o que jÃ¡ ficou bom. Esta bib
 Para ver a biblioteca no seu computador, use Git e Python 3. No terminal, copie o projeto, entre na pasta e inicie o servidor. Depois abra o endereÃ§o abaixo.
 
 ```sh
-git clone https://github.com/inematds/filmes-em-codigos-lib.git
+git clone https://github.com/linnoff88-dev/filmes-em-codigos-lib.git
 cd filmes-em-codigos-lib
 python3 -m http.server 8000
 ```
